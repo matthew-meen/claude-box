@@ -1,0 +1,23 @@
+# Build artifacts
+/target
+
+# Cargo lock (optional for binaries, but often committed)
+# Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Debug
+*.pdb
