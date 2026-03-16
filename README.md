@@ -2,6 +2,8 @@
 
 A macOS sandbox for [Claude Code](https://claude.ai/code) built in Rust. Wraps the `claude` CLI in an ephemeral [tart](https://github.com/cirruslabs/tart) macOS VM, giving each run an isolated environment with full Apple Silicon performance.
 
+![alt text](image.png)
+
 ## How it works
 
 ```mermaid
